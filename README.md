@@ -1,16 +1,15 @@
-# arctic_pups
+# Celfie_flutter - Design iteration 1
+A social media app built on flutter and firebase with customisable theme.
 
-Convenience application for pet parents.
+Here are some videos showcasing the UI
+* [UI](https://user-images.githubusercontent.com/43390808/125608973-4cb42717-742e-425d-98ca-9c776db1ea21.mp4)
+* [Uploading a photo](https://user-images.githubusercontent.com/43390808/125610312-51b82a21-0d56-4f28-ba3e-e48aad2ac9e6.mp4)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
